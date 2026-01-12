@@ -23,9 +23,7 @@ The main aim is to uncover real estate trends in Lagos, Nigeria, focusing on key
 
 
 
-| File Name | Description | Key Fields |
-|-----------|-------------|------------|
-| property_listings.csv (inferred) | Aggregated data on 53,070 listings across 9 cities, covering rent/sale details. | city, neighborhood, price (rent/sale), property_category (House/Apartment), furnishing_status, construction_status (New/Old), bedrooms |
+
 
  Key Dashboard Components & Metrics
 
