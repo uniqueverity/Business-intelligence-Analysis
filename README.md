@@ -5,7 +5,7 @@ Analysis of Lagos real estate market using Power BI, covering 53,070 listings ac
 
 This project delivers a data-driven analysis of the Lagos real estate market, transforming 53,070 property listings into actionable insights on pricing trends, property types, and investment opportunities. Built using Power BI for interactive visualizations, the dashboard supports strategic decisions for investors, developers, and policymakers by highlighting market patterns across 9 key cities.
 
- Project Goal
+ # Project Goal
 
 The main aim is to uncover real estate trends in Lagos, Nigeria, focusing on key business questions such as:
 
@@ -13,7 +13,7 @@ The main aim is to uncover real estate trends in Lagos, Nigeria, focusing on key
 2. Pricing Dynamics: What influences rent/sale prices, including bedrooms, furnishing, and construction status?
 3. Investment Potential: Where are the opportunities for growth in premium vs. affordable segments?
 
-🛠️ Technologies Used
+# Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -25,7 +25,7 @@ The main aim is to uncover real estate trends in Lagos, Nigeria, focusing on key
 
 
 
- Key Dashboard Components & Metrics
+# Key Dashboard Components & Metrics
 
 The dashboard offers a multi-dimensional view of the market:
 
@@ -39,7 +39,7 @@ The dashboard offers a multi-dimensional view of the market:
 * Pricing Trends: Average prices by city, bedrooms, and construction status.
 * Segmentation: Market tiers (Luxury, Upper-Middle, Affordable) based on locations and characteristics.
 
- Visible Project Insights (Analysis Snapshot)
+# Visible Project Insights (Analysis Snapshot)
 
 From the dashboard visuals, here are the top insights for the Lagos real estate market:
 
@@ -53,20 +53,20 @@ From the dashboard visuals, here are the top insights for the Lagos real estate 
 
 5. New vs. Old Premium: New houses fetch higher prices everywhere, with the widest gaps in Ikoyi and Lekki, showing buyer preference for modern amenities.
 
- Data-Driven Projections (Forecast Insights)
+# Data-Driven Projections (Forecast Insights)
 
 Based on observed trends in the dataset, such as high supply and new developments in emerging areas, premium pricing in exclusive zones, and demand for furnished and mid-range properties, the following projections can be made:
 
-1. Price Projection:
+## 1. Price Projection:
    - Ikoyi & Island (VI): Prices are expected to continue rising due to limited land availability and sustained high-income demand.
    - Lekki: Moderate price growth expected; increasing supply may stabilize prices in the short term.
    - Ajah & Mainland Areas: Gradual appreciation is likely as infrastructure and urban spillover from Lekki expands.
 
-2. Development Trends:
+## 2. Development Trends:
    - Continued increase in newly built and furnished properties, especially in Lekki and Ajah.
    - Developers are likely to focus on mid-range apartments (2–3 bedrooms) to match demand.
 
-3. Investment Outlook:
+## 3. Investment Outlook:
    - Short-term rental investments will remain most profitable in Lekki and Ikoyi.
    - Long-term appreciation opportunities exist in Ajah and Ojodu due to affordability and expansion potential.
 
